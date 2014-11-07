@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 #author John Cutsavage
-
+#cool code -Victor M
 import math
 #this code was taken from stackoverflow.com/questions/18833759/python-prime-number-checker
 def is_prime(n):
